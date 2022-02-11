@@ -1,4 +1,4 @@
-*/*.exe  // ignoring .exe file inside sub folders/directory
-# git rm -r --cached */*
-# clear cache if already created in git.
+# git ignore .exe in sub folders
+*/*.exe 
+
 
